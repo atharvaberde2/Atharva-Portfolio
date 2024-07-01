@@ -12,3 +12,5 @@ Welcome to my GitHub profile! I am a passionate Data Scientist with a strong bac
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
+
+
